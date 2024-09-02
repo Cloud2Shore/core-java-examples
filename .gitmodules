@@ -1,0 +1,3 @@
+[submodule "inner-class-demo"]
+	path = inner-class-demo
+	url = https://github.com/Cloud2Shore/inner-class-demo.git
